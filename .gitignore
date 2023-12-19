@@ -1,0 +1,19 @@
+
+#ignoring the apk and app files under resources folder
+src/main/resources/apps/Android/*.apk
+src/main/resources/apps/iOS/*.app
+.DS_Store
+
+#InteliJ specific folder
+.idea
+test-output/
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+### Maven ###
+target/

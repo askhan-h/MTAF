@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Test" verbose="1">
+
+    <listeners>
+        <listener class-name="base.utils.testng.IOSTestngListeners"/>
+    </listeners>
+
+    <test name="Login : Login to App">
+        <classes>
+            <class name="iOS.testcases.IOSTestcaseLogin"/>
+        </classes>
+    </test>
+
+</suite>
