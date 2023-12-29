@@ -4,6 +4,7 @@ Welcome to the Mobile Test Automation Framework (MTAF) repository! This framewor
 mobile</u> testing for your projects, utilizing various technologies and design patterns. Below, you'll find information
 about the key components and technologies used in the framework.
 
+
 ## Features
 
 MTAF is built with the following technologies and design patterns:
@@ -33,7 +34,9 @@ MTAF is built with the following technologies and design patterns:
 9. **Log4j**: A widely used Java-based logging library that helps developers manage and output log messages in their applications.
 10. **Image Comparison-Occurrences Lookup** : Performs images matching by template to find possible occurrence of the partial image in the full image
 11. **Appium Server**: Programmatically startup the Appium server.
-12. **Android Emulator**: Programmatically startup the emulator with the provided emulator name in properties file. 
+12. **Android Emulator**: Programmatically startup the emulator with the provided emulator name in properties file.
+
+![a92f621e-ace0-4b67-8650-49b05c214f43](https://github.com/askhan-h/MTAF/assets/153196569/5e69bce1-a740-48ac-8e4a-bc6d2052b5a5)
 
 ## Getting Started
 
